@@ -1,0 +1,103 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Механики — Zagreb RP</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#101411;color:#e4e5dc;font-family:Arial,sans-serif}
+header{background:#191f1a;padding:22px 7%;border-bottom:1px solid #394238}
+.logo{font-size:25px;font-weight:bold;letter-spacing:2px}
+nav{margin-top:20px;display:flex;gap:20px;flex-wrap:wrap}
+a{color:#c2c9bb;text-decoration:none}
+a:hover{color:white}
+main{padding:40px 7%}
+h1{font-size:34px}
+.intro{color:#aeb6a9;line-height:1.6}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin-top:30px}
+.card{background:#1b221c;border:1px solid #394238;padding:22px;border-radius:5px}
+.card h2{font-size:19px;margin-top:0}
+.card p{color:#aeb6a9;font-size:14px;line-height:1.6}
+.card a{display:inline-block;margin-top:10px;color:#d1d8c9}
+footer{padding:25px 7%;background:#191f1a;color:#8e988b;font-size:13px}
+</style>
+</head>
+<body>
+<header>
+<div class="logo">ZAGREB RP</div>
+<nav>
+<a href="index.html">Главная</a>
+<a href="index.html#countries">Государства</a>
+<a href="index.html#rules">Правила</a>
+<a href="mechanics.html">Механики</a>
+</nav>
+</header>
+
+<main>
+<h1>Игровые механики</h1>
+<p class="intro">Основные системы проекта Zagreb RP. Здесь собраны правила развития государства, экономики, армии и международных отношений.</p>
+
+<div class="cards">
+
+<div class="card">
+<h2>Экономика</h2>
+<p>ВВП, государственный бюджет, доходы и расходы.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Армия</h2>
+<p>Вооружённые силы, мобилизация, техника и снабжение.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Дипломатия</h2>
+<p>Союзы, договоры, переговоры и международные отношения.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Торговля</h2>
+<p>Экспорт, импорт и торговые соглашения.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Промышленность</h2>
+<p>Строительство заводов, фабрик и развитие производства.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Технологии</h2>
+<p>Научные исследования и техническое развитие.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Колонизация</h2>
+<p>Освоение территорий и создание колоний.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Экспансия</h2>
+<p>Расширение территории государства.</p>
+<a href="#">Открыть →</a>
+</div>
+
+<div class="card">
+<h2>Война</h2>
+<p>Военные конфликты, захват территорий и последствия.</p>
+<a href="#">Открыть →</a>
+</div>
+
+</div>
+</main>
+
+<footer>ZAGREB RP © 2026</footer>
+</body>
+</html>
